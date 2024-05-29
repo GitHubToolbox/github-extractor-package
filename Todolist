@@ -1,0 +1,43 @@
+Repository Data
+
+Commits: Information about commits in a repository.
+API Endpoint: /repos/{owner}/{repo}/commits
+
+Issues: Information about issues in a repository.
+API Endpoint: /repos/{owner}/{repo}/issues
+
+Pull Requests: Information about pull requests in a repository.
+API Endpoint: /repos/{owner}/{repo}/pulls
+
+Branches: Information about branches in a repository.
+API Endpoint: /repos/{owner}/{repo}/branches
+
+Milestones: Information about milestones in a repository.
+API Endpoint: /repos/{owner}/{repo}/milestones
+
+Forks: Information about forks of a repository.
+API Endpoint: /repos/{owner}/{repo}/forks
+
+Stargazers: Users who have starred a repository.
+API Endpoint: /repos/{owner}/{repo}/stargazers
+
+Watchers: Users who are watching a repository.
+API Endpoint: /repos/{owner}/{repo}/subscribers
+
+Commits: Detailed commit data.
+API Endpoint: /repos/{owner}/{repo}/commits
+
+Organization Data
+
+Repositories: List of repositories in an organization.
+API Endpoint: /orgs/{org}/repos
+
+
+Teams: List of teams in an organization.
+API Endpoint: /orgs/{org}/teams
+
+Events: List of public events for an organization.
+API Endpoint: /orgs/{org}/events
+
+Hooks: List of webhooks for an organization.
+API Endpoint: /orgs/{org}/hooks
